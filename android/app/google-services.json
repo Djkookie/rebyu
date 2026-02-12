@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "116183397616",
+    "project_id": "rebyu-c98f5",
+    "storage_bucket": "rebyu-c98f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116183397616:android:a4270951ee26fe1490be35",
+        "android_client_info": {
+          "package_name": "com.example.rebyu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2Lp3tmg3i-0jYU4VTcPmMb7Y94JSuMFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
